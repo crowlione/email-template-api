@@ -1,0 +1,34 @@
+{
+    "templates": [
+        {
+            "id": 0,
+            "header": "Have a nice weekend",
+            "description": "Short have a nice weekend email.",
+            "body": "Good evening all, Great work this week. Wish you all a great weekend!. Greetings, "
+        },
+        {
+            "id": 1,
+            "header": "Late for work",
+            "description": "Late for work because of traffic.",
+            "body": "Good morning, Traffic is a bit heavy today and I'll be 5-10 minutes late to work. Greetings, "
+        },
+        {
+            "id": 2,
+            "header": "Can't come in",
+            "description": "Can't come to work - headache and fever",
+            "body": "Good morning, I woke up with a headache and a fever today and unfortunately won't make it to work. On my way to the doctor rn. Greetings, "
+        },
+        {
+            "id": 3,
+            "header": "Arrived at meeting place",
+            "description": "Arrived at place with given time.",
+            "body": "Hello, I have arrived at the meeting place. Time: Greetings, "
+        },
+        {
+            "id": 4,
+            "header": "Забавяне с проект",
+            "description": "Имейл за забавяне с проект.",
+            "body": "Здравейте, За съжалеине може и да не успея да предам проекта си навреме. Моля за извинение. Поздрави, "
+        }
+    ]
+}
