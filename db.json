@@ -4,31 +4,31 @@
             "id": 0,
             "header": "Have a nice weekend",
             "description": "Short have a nice weekend email.",
-            "body": "Good evening all, Great work this week. Wish you all a great weekend!. Greetings, "
+            "body": "Good evening all,\\n\\nGreat work this week. Wish you all a great weekend!.\\n\\nGreetings, "
         },
         {
             "id": 1,
             "header": "Late for work",
             "description": "Late for work because of traffic.",
-            "body": "Good morning, Traffic is a bit heavy today and I'll be 5-10 minutes late to work. Greetings, "
+            "body": "Good morning,\\n\\nTraffic is a bit heavy today and I'll be 5-10 minutes late to work.\\n\\nGreetings, "
         },
         {
             "id": 2,
             "header": "Can't come in",
             "description": "Can't come to work - headache and fever",
-            "body": "Good morning, I woke up with a headache and a fever today and unfortunately won't make it to work. On my way to the doctor rn. Greetings, "
+            "body": "Good morning,\\n\\nI woke up with a headache and a fever today and unfortunately won't make it to work.\\nOn my way to the doctor rn.\\n\\nGreetings, "
         },
         {
             "id": 3,
             "header": "Arrived at meeting place",
-            "description": "Arrived at place with given time.",
-            "body": "Hello, I have arrived at the meeting place. Time: Greetings, "
+            "description": "Arrived at place confirmation.",
+            "body": "Hello,\\n\\nI have arrived at the meeting place.\\n\\nGreetings, "
         },
         {
             "id": 4,
             "header": "Забавяне с проект",
             "description": "Имейл за забавяне с проект.",
-            "body": "Здравейте, За съжалеине може и да не успея да предам проекта си навреме. Моля за извинение. Поздрави, "
+            "body": "Здравейте,\\n\\nЗа съжалеине може и да не успея да предам проекта си навреме.\\nМоля за извинение.\\n\\nПоздрави, "
         }
     ]
 }
